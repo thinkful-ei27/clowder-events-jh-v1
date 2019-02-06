@@ -4,3 +4,4 @@ zz_oldjunk/
 
 # Don't track secrets!
 server/.env
+.env
