@@ -3,4 +3,4 @@ node_modules/
 zz_oldjunk/
 
 # Don't track secrets!
-.env
+server/.env
